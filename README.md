@@ -155,3 +155,15 @@ $$V_{arithmetic}(\omega_i, \omega_j) = U_0 \cdot \exp \left( - \gamma \cdot \lef
 *   **Суть:** Проверка квантовой запутанности как эмерджентного свойства прямого контакта мод ($d=0$).
 *   **Методика:** Создание двух макроскопических датчиков (кристаллов), выращенных из одной точки кристаллизации и имеющих идентичную структуру узлов собственной моды общего начала.
 *   **Ожидаемый результат:** Высокочастотная фазовая модуляция спектра на первом датчике мгновенно (вне рамок классического ограничения скорости света $c$) регистрируется вторым датчиком через интерференционный отклик. При этом амплитуда отклика строго падает как $1/N$ при введении в систему дополнительных тождественных копий кристаллов, что подтверждает закон сохранения емкости сети.
+
+### ССЫЛКИ НА ДОКУМЕНТЫ
+
+* **ГЛАВЫ 1-13** https://github.com/odnofamilec89/Subquantum-theory/blob/main/6.0.%D0%A6%D0%95%D0%9B%D0%98%D0%9A%D0%9E%D0%9C.tex
+* **Восьмисекторная классификация Мультиверса в MIT** https://github.com/odnofamilec89/Subquantum-theory/blob/main/Chinsky_Eight_Sectors.md
+* **Методологическое руководство по работе с Лагранжианом Чинского** https://github.com/odnofamilec89/Subquantum-theory/blob/main/Chinsky_Lagrangian.md
+* **Калибровочные поля Янга-Миллса и геометрия нулей собственных мод** https://github.com/odnofamilec89/Subquantum-theory/blob/main/Chinsky_Yang_Mills.md
+* **Сводный реестр прикладных технологий на базе Mode Identity Theory (MIT)** https://github.com/odnofamilec89/Subquantum-theory/blob/main/Chinsky_manifesto.md
+* **Аналитический расчет безразмерных калибровочных констант через геометрию волнового резонанса и пропорции Золотого Сечения** https://github.com/odnofamilec89/Subquantum-theory/blob/main/EVS_2026_CONSTANTS.md
+* **Субквантовая Теория Мод (Mode Identity Theory — MIT)** https://github.com/odnofamilec89/Subquantum-theory/blob/main/EVS_2026_CORE.md
+* **Протокол субквантовой трансцендентной материализации (Канал высокой точности)** https://github.com/odnofamilec89/Subquantum-theory/blob/main/EVS_2026_HIGH_PRECISION.md
+* **Протокол фазового восстановления утраченных макросистем (Проект «Александрия»)** https://github.com/odnofamilec89/Subquantum-theory/blob/main/Project_Alexandria.md
